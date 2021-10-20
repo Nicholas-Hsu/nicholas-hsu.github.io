@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Nicholas-Hsu</title>
+  
+  
+  <link href="https://nicholas-hsu.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://nicholas-hsu.github.io/"/>
+  <updated>2021-10-20T10:30:38.304Z</updated>
+  <id>https://nicholas-hsu.github.io/</id>
+  
+  <author>
+    <name>Nicholas Hsu</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://nicholas-hsu.github.io/2021/04/05/home/"/>
+    <id>https://nicholas-hsu.github.io/2021/04/05/home/</id>
+    <published>2021-04-05T04:51:43.000Z</published>
+    <updated>2021-10-20T10:30:38.304Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="Xiaolin-Xu-Nicholas-Hsu"><a href="#Xiaolin-Xu-Nicholas-Hsu" class="headerlink" title="Xiaolin Xu (Nicholas Hsu)"></a>Xiaolin Xu (Nicholas Hsu)</h4><p>Postgraduate of Economics<br>School of Economics, Nankai University</p><p>&nbsp;</p><h4 id="The-LATEST"><a href="#The-LATEST" class="headerlink" title="The LATEST"></a>The LATEST</h4><p><a href="/news/pa2021101901.html"><strong>SEMINAR</strong></a> (<strong>PROFESSIONAL ACTIVITY&emsp;Oct. 19, 2021</strong>)<br>&emsp;<em>The working paper ‘Digital Economy Alleviates the Relative Poverty of Urban Labor Force’, written by Mengna Li, was discussed and studied.</em></p><p><a href="/news/pa2021101701.html"><strong>CONFERENCE</strong></a> (<strong>PROFESSIONAL ACTIVITY&emsp;Oct. 17, 2021</strong>)<br>&emsp;<em>Participate in the round-table conference of the Tianjin Forum 2021 with the theme of ‘Artificial Intelligence and Urban Competitiveness’.</em></p><p><a href="/news/pa2021101201.html"><strong>SEMINAR</strong></a>（<strong>PROFESSIONAL ACTIVITY&emsp;Oct. 12, 2021</strong>）<br>&emsp;<em>The working paper ‘China’s Anti-corruption Campaign and Poverty Alleviation’, written by Linson Han and Gang Xu, was discussed and studied.</em></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h4 id=&quot;Xiaolin-Xu-Nicholas-Hsu&quot;&gt;&lt;a href=&quot;#Xiaolin-Xu-Nicholas-Hsu&quot; class=&quot;headerlink&quot; title=&quot;Xiaolin Xu (Nicholas Hsu)&quot;&gt;&lt;/a&gt;Xiaolin Xu (Nic</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://nicholas-hsu.github.io/2021/03/29/hello-world/"/>
+    <id>https://nicholas-hsu.github.io/2021/03/29/hello-world/</id>
+    <published>2021-03-29T07:12:18.532Z</published>
+    <updated>2021-03-29T07:12:18.532Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
